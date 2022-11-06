@@ -1,0 +1,28 @@
+body {
+    background: #FFF8EA;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+#clock {
+    margin-top: 75px;
+    text-align: center;
+    text-decoration : solid;
+    height: 400px;
+    background: #CDFCF6;
+    color: #594545;
+    letter-spacing: 4px;
+    text-shadow: 2px 2px 4px #000000;
+    font-size: 25px;
+    font-family :'Times New Roman', Times, serif;
+    border-style: solid;
+    border-width: 5px;
+}
+
+h1 {
+    font-family : Arial, Helvetica, sans-serif;
+}
+
+#time {
+    margin-top: 170px;
+}
